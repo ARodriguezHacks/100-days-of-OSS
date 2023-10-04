@@ -26,3 +26,19 @@
   - Nuxt's Repo Setup: https://nuxt.com/docs/community/framework-contribution#set-up-your-local-development-environment
   - Contribution Guide: https://nuxt.com/docs/community/contribution
 - **OpenSauced Highlight**: Not applicable, no PRs created
+
+## Day 3
+
+- **Project**: [VirtualCofee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+- **Description**: Set up the project and created PR to add my member profile to website
+- **Tasks completed**:
+  - Forked repo to my local machine
+  - Followed steps outline in this issue: https://github.com/Virtual-Coffee/virtualcoffee.io/issues/13
+  - Tested changed locally
+  - Created and submitted PR
+- **Challenges faced**: Starting up my local server was a challenge. The Netlify CLI errored out a few times, but I followed the documentation as closely as possible, including when adding my Github personal access token to use test data. Also noticed some seemingly outdated info on the VC documentation.
+- **Resources used**:
+  - https://github.com/Virtual-Coffee/virtualcoffee.io/issues/13
+  - VC Main Repo Setup: https://github.com/Virtual-Coffee/virtualcoffee.io
+  - Github Personal Access Token documentaion: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+- **OpenSauced Highlight**: Not applicable, yet
