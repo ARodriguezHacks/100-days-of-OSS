@@ -29,7 +29,7 @@
 
 ## Day 3
 
-- **Project**: [VirtualCofee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+- **Project**: [VirtualCoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 - **Description**: Set up the project and created PR to add my member profile to website
 - **Tasks completed**:
   - Forked repo to my local machine
@@ -40,5 +40,22 @@
 - **Resources used**:
   - https://github.com/Virtual-Coffee/virtualcoffee.io/issues/13
   - VC Main Repo Setup: https://github.com/Virtual-Coffee/virtualcoffee.io
-  - Github Personal Access Token documentaion: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+  - Github Personal Access Token documentation: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 - **OpenSauced Highlight**: Not applicable, yet
+
+## Day 4
+
+- **Projects**: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp), [OpenSauced](https://github.com/open-sauced/app)
+- **Description**: Made updates to a FCC issue I created for the repo on [Day 1](#day-1) and created a gist to track issues on the OpenSauced website
+- **Tasks completed**:
+  - Responded to comments by fellow freeCodeCamp contributors for my issue, including testing out suggestions on Codepen.io demos
+  - Created a new Github Gist for issues noticed while using the Open Sauced website.
+  - Found an issue already created on the Open Sauced repo and left a comment about how the issue came about on my end
+  - Organized some repos on Open Sauced's Insights feature and Github specifically for open source and hacktoberfest
+  - Created 2 highlights on the Open Sauced platform from previous open source tasks during the week
+- **Challenges faced**: Feeling overwhelmed with the open source possibilities, including navigating the issues on much larger repos. But Open Sauced helped alleviate some of those overwhelming feelings with their interface and features.
+- **Resources used**:
+  - https://insights.opensauced.pizza/
+- **OpenSauced Highlights**:
+  https://insights.opensauced.pizza/feed/538
+  https://insights.opensauced.pizza/feed/539
