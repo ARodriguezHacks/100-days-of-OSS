@@ -59,3 +59,18 @@
 - **OpenSauced Highlights**:
   https://insights.opensauced.pizza/feed/538
   https://insights.opensauced.pizza/feed/539
+
+## Day 5
+
+- **Projects**: [Mermaid](https://github.com/mermaid-js/mermaid), [Prisma](https://github.com/prisma/prisma), [Supabase](https://github.com/supabase/supabase)
+- **Description**: Did research on the 3 repos above to determine if they had open source contributions at my level and interest
+- **Tasks completed**:
+  - Created fork of Mermaid repo and tried to understand issue with 3 tests failing in development mode
+  - Created a project bootstrapped from Prisma docs
+  - Created a Supabase PostgreSQL database to be used for the Prisma sample project
+  - Joined Supabase Discord
+- **Challenges faced**: Still finding it challenging to find a worthwhile repo, because another qualifier in my book is an active and welcoming community.
+- **Resources used**:
+  - None
+- **OpenSauced Highlights**:
+  - None
