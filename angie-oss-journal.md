@@ -74,3 +74,16 @@
   - None
 - **OpenSauced Highlights**:
   - None
+
+## Day 6
+
+- **Projects**: [VirtualCoffee](https://github.com/Virtual-Coffee/virtualcoffee.io), [Supabase](https://github.com/supabase/supabase)
+- **Description**: Started working on an issue assigned to me for VC and began looking up more issues on Supabase repo
+- **Tasks completed**:
+  - Pulled down upstream of VC repo to keep local repo up to date
+  - Created new branch to work on [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/1031)
+- **Challenges faced**: None, just finding time to work on some of these issues among other tasks like applying to jobs and networking.
+- **Resources used**:
+  - None
+- **OpenSauced Highlights**:
+  - None
