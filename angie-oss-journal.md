@@ -87,3 +87,18 @@
   - None
 - **OpenSauced Highlights**:
   - None
+
+## Day 7
+
+- **Projects**: [VirtualCoffee](https://github.com/Virtual-Coffee/virtualcoffee.io)
+- **Description**: Continued working on the same issue as yesterday: https://github.com/Virtual-Coffee/virtualcoffee.io/issues/1031
+- **Tasks completed**:
+  - Reviewed APIs on React Leaflet, Leaflet, and React Leaflet Cluster
+  - Looked at demos including on codesanbox.io
+- **Challenges faced**: None, so far.
+- **Resources used**:
+  - [React Leaflet Cluster docs](https://akursat.gitbook.io/marker-cluster/)
+  - [React Leaflet documentation](https://react-leaflet.js.org/)
+  - [Leaflet website](https://leafletjs.com/reference.html#control-zoom)
+- **OpenSauced Highlights**:
+  - None
