@@ -102,3 +102,17 @@
   - [Leaflet website](https://leafletjs.com/reference.html#control-zoom)
 - **OpenSauced Highlights**:
   - None
+
+## Day 8
+
+- **Projects**: [VirtualCoffee](https://github.com/Virtual-Coffee/virtualcoffee.io), [React Leaflet](https://github.com/PaulLeCam/react-leaflet/i)
+- **Description**: More progress working on the same issue for VC's main site: https://github.com/Virtual-Coffee/virtualcoffee.io/issues/1031
+- **Tasks completed**:
+  - Made additional progress by creating custom icon based on React Leaflet Cluster and Leaflet documentations
+  - Used sample icon in VC's assets folder as a placeholder
+  - Began an issue (minor) for a broken download zip file link on the React Leaflet docs site.
+- **Challenges faced**: None, so far.
+- **Resources used**:
+  - None
+- **OpenSauced Highlights**:
+  - None
