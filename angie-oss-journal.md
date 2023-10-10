@@ -116,3 +116,16 @@
   - None
 - **OpenSauced Highlights**:
   - None
+
+## Day 9
+
+- **Projects**: [VirtualCoffee](https://github.com/Virtual-Coffee/virtualcoffee.io)
+- **Description**: No change, minor progress and research for same issue on VC's main site: https://github.com/Virtual-Coffee/virtualcoffee.io/issues/1031
+- **Tasks completed**:
+  - Reviewed code samples from React Leaflet Cluster to figure out why CSS didn't match in my working branch.
+  - Noted that custom CSS and design input from VC maintainers may be necessary to complete issue.
+- **Challenges faced**: Realized CSS from Cluster library was not exported properly perhaps.
+- **Resources used**:
+  - None
+- **OpenSauced Highlights**:
+  - None
