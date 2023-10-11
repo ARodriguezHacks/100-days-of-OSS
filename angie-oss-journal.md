@@ -129,3 +129,17 @@
   - None
 - **OpenSauced Highlights**:
   - None
+
+## Day 10
+
+- **Projects**: [VirtualCoffee](https://github.com/Virtual-Coffee/virtualcoffee.io)
+- **Description**: Made additional style updates and pushed feature branch for latest version of issue: https://github.com/Virtual-Coffee/virtualcoffee.io/issues/1031
+- **Tasks completed**:
+  - Tweaked custom cluster icon borrowed from react leaflet cluster code sample
+  - Pulled down upstream and merge changes into local main branch before merging feature branch against it.
+  - Pushed feature branch and left comments for Dan about the need for style input from maintainers and TypeScript type error.
+- **Challenges faced**: None
+- **Resources used**:
+  - None
+- **OpenSauced Highlights**:
+  - None
