@@ -143,3 +143,17 @@
   - None
 - **OpenSauced Highlights**:
   - None
+
+## Day 11
+
+- **Projects**: None, maybe [Prisma](https://github.com/prisma/prisma)
+- **Description**: Continued working on a tutorial from the official Prisma docs with intent to possibly contribute to its repo for open source. Also did research for new repos and issues for Hacktoberfest
+- **Tasks completed**:
+  - Added code from tutorial for User model and reading and writing to Supabase database
+  - Did some research on new repos to contribute for Hacktoberfest on this site from Hacktoberfest's site: https://finder.usmans.me/
+  - Joined Prisma's Slack and Discord communities.
+- **Challenges faced**: Just trying to find new issues and repos to contribute to.
+- **Resources used**:
+  - https://finder.usmans.me/
+- **OpenSauced Highlights**:
+  - None
