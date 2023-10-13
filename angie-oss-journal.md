@@ -157,3 +157,19 @@
   - https://finder.usmans.me/
 - **OpenSauced Highlights**:
   - None
+
+## Day 12
+
+- **Projects**: None, agin some [Prisma](https://github.com/prisma/prisma), and searching for new issues
+- **Description**: Same as yesterday: Continued working on a tutorial from the official Prisma docs with intent to possibly contribute to its repo for open source. More research for new repos and issues for Hacktoberfest.
+- **Tasks completed**:
+  - Researched repos and issues on Github, Hacktoberfest and related sites.
+  - Found issue and left comment to ask if I could be assigned to it.
+  - Joined 2 more open source communities (Discord servers).
+- **Challenges faced**: Continuing difficulty to find new issues and repos to contribute to.
+- **Resources used**:
+  - https://finder.usmans.me/
+  - https://atlas.scoutflo.com/hacktoberfest
+  - Github's Explore feature and using filters to find new issues for Hacktoberfest
+- **OpenSauced Highlights**:
+  - None
