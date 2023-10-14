@@ -160,7 +160,7 @@
 
 ## Day 12
 
-- **Projects**: None, agin some [Prisma](https://github.com/prisma/prisma), and searching for new issues
+- **Projects**: None, again some [Prisma](https://github.com/prisma/prisma), and searching for new issues
 - **Description**: Same as yesterday: Continued working on a tutorial from the official Prisma docs with intent to possibly contribute to its repo for open source. More research for new repos and issues for Hacktoberfest.
 - **Tasks completed**:
   - Researched repos and issues on Github, Hacktoberfest and related sites.
@@ -171,5 +171,20 @@
   - https://finder.usmans.me/
   - https://atlas.scoutflo.com/hacktoberfest
   - Github's Explore feature and using filters to find new issues for Hacktoberfest
+- **OpenSauced Highlights**:
+  - None
+
+## Day 13
+
+- **Projects**: [Notesnook](https://github.com/streetwriters/notesnook)
+- **Description**: Created issue for new open source repo and kept looking for new issues and repos for Hacktoberfest
+- **Tasks completed**:
+  - Created user account for Notesnook app
+  - Discovered interesting functionality and created issue for it, but issue was immediately closed by maintainers
+  - Found 3 new repos that look promising for contributions
+  - Alerted VC maintainer about pending branch for VC website cluster map issue
+- **Challenges faced**: Confidence to take on more challenging issues like ones involving writing tests
+- **Resources used**:
+  - None
 - **OpenSauced Highlights**:
   - None
