@@ -188,3 +188,17 @@
   - None
 - **OpenSauced Highlights**:
   - None
+
+## Day 14
+
+- **Projects**: [React Icons](https://github.com/react-icons/react-icons/issues) and [GDevelop](https://github.com/4ian/GDevelop)
+- **Description**: Setting up local environments and exploring repos for contribution efforts
+- **Tasks completed**:
+  - Forked repos on Ubuntu computer and set up local environments
+  - Half day of open source, so nothing else
+- **Challenges faced**:
+  - None
+- **Resources used**:
+  - None
+- **OpenSauced Highlights**:
+  - None
