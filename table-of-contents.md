@@ -19,7 +19,7 @@
   - [Day 12](angie-oss-journal.md#day-12)
   - [Day 13](angie-oss-journal.md#day-13)
   - [Day 14](angie-oss-journal.md#day-14)
-  - [Day 15](#day-15)
+  - [Day 15](angie-oss-journal.md#day-15)
   - [Day 16](#day-16)
   - [Day 17](#day-17)
   - [Day 18](#day-18)
