@@ -202,3 +202,17 @@
   - None
 - **OpenSauced Highlights**:
   - None
+
+## Day 15
+
+- **Projects**: [Mattermost](https://github.com/mattermost/mattermost)
+- **Description**: Setting up Mattermost repo
+- **Tasks completed**:
+  - Forked Mattermost repo and cloned onto local environment
+  - Installed Go programming language for repo
+- **Challenges faced**:
+  - None, just finding time and motivation to keep up with challenge.
+- **Resources used**:
+  - None
+- **OpenSauced Highlights**:
+  - None
